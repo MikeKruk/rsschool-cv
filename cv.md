@@ -16,11 +16,15 @@
 
 "I am 25 years old, born in Belarus. Now I live in Poland and work as a lawyer's assistant. I like to develop and programming is a constant self-development. My goal is to become a Junior Developer and only grow ! "
 
+---
+
 ## Education 
 
 * Belarusian State University 
     * Faculty: Law Specialisation: Administrative Law 
     * Educationlevel: Bachelor'sdegree
+
+---
 
 ## Skills
 
@@ -29,6 +33,8 @@
 * CSS (BEM , Bootstrap)
 
 * JS
+
+---
 
 ## Code Examples
 
@@ -55,6 +61,8 @@ function flatten(array) {
   console.log(flatten([['sdad'], [['2', 3]], [[[4]]]])) // -> [1, 2, 3, 4]
   
 ```
+
+---
 
 ## Languages 
 
