@@ -53,7 +53,7 @@ function flatten(array) {
   }
 
   console.log(flatten([['sdad'], [['2', 3]], [[[4]]]])) // -> [1, 2, 3, 4]
-  ``
+  
 ```
 
 ## Languages 
