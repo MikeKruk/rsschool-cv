@@ -8,7 +8,7 @@
 
 * Email: mi.kruk95@gmail.com
 
-* [GitHub:](https://github.com/MikeKruk)
+* GitHub: [MikeKruk](https://github.com/MikeKruk)
 
 ---
 
