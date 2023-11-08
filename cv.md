@@ -64,10 +64,4 @@ function flatten(array) {
 
 ---
 
-## Languages 
 
-* Russian: native level 
-
-* Polish: B1
-
-* English: A2
